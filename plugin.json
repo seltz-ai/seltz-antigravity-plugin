@@ -1,0 +1,17 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "seltz",
+  "displayName": "Seltz",
+  "version": "1.0.0",
+  "description": "Fast and accurate web search for AI agents, with filters for news, companies and people and a fetch tool to read any page in full.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Find the latest funding rounds announced by AI infrastructure companies this month",
+    "Research the funding history and leadership team of Mistral AI",
+    "Find today's most important AI news and read the full article"
+  ],
+  "author": { "name": "Seltz", "url": "https://seltz.ai" },
+  "homepage": "https://seltz.ai",
+  "repository": "https://github.com/seltz-ai/seltz-antigravity-plugin",
+  "keywords": ["search", "web-search", "seltz", "research", "mcp", "content-extraction"]
+}

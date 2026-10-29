@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "seltz": {
+      "url": "https://mcp.seltz.ai/mcp",
+      "headers": { "Authorization": "Bearer ${SELTZ_API_KEY}" },
+      "variables": [
+        {
+          "name": "SELTZ_API_KEY",
+          "title": "Seltz API key",
+          "description": "Your Seltz API key. Create one in the Seltz console.",
+          "link": "https://console.seltz.ai"
+        }
+      ]
+    }
+  }
+}
