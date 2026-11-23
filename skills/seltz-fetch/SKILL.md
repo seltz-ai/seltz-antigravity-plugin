@@ -13,8 +13,8 @@ Use the Seltz `fetch` tool to read the full content of web pages as markdown.
 
 ## Notes
 
-- Each URL gets its own result: match results on `requested_url`. One failing URL does not affect the others.
-- HTML pages only: PDFs and images are rejected.
+- Each URL gets its own result: match results on the requested URL, not on position. One failing URL does not affect the others.
+- HTML and plain-text pages only: PDFs, images and other binaries are rejected.
 
 ## Output
 
