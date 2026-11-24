@@ -2,7 +2,7 @@
   "$schema": "https://antigravity.google/schemas/v1/plugin.json",
   "name": "seltz",
   "displayName": "Seltz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fast and accurate web search for AI agents, with filters for news, companies and people and a fetch tool to read any page in full.",
   "logo": "assets/logo.png",
   "suggestedPrompts": [

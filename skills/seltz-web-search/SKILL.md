@@ -11,9 +11,9 @@ Use the Seltz `search` tool for any question that needs current or external info
 
 - `query` (required): concise keywords
 - `scope` (optional): `news`, `companies`, `people`, `financial-reports` or `wikipedia`. Omit it for general queries.
-- `fromDate` / `toDate` (optional, YYYY-MM-DD): for recent or dated news
-- `includeDomains` / `excludeDomains` (optional): restrict or exclude sources
-- `maxResults` (optional, default 10)
+- `from_date` / `to_date` (optional, YYYY-MM-DD): for recent or dated news. Not with the `companies` or `people` scopes.
+- `include_domains` / `exclude_domains` (optional): restrict or exclude sources
+- `max_results` (optional, default 10)
 
 ## Tips
 
